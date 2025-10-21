@@ -85,9 +85,9 @@
 
 如果您对本隐私政策或应用的隐私实践有任何疑问，请通过以下方式联系我们：
 
--**电子邮箱**：molebibo@gmail.com  
--**X(推特)**：@yangcong_pro
--**QQ**：896668973
+**电子邮箱**：molebibo@gmail.com  
+**X(推特)**：@yangcong_pro  
+**QQ**：896668973  
 -*本隐私政策旨在符合 Apple App Store 审核要求，并确保用户隐私得到最大程度的保护。*
 
 ---
